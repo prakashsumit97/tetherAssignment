@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@hyperswarm/rpc": "^3.3.2",
+    "axios": "^1.8.1",
+    "crypto": "^1.0.1",
+    "hyperbee": "^2.22.2",
+    "hypercore": "^10.38.2",
+    "hyperdht": "^6.20.1"
+  }
+}
